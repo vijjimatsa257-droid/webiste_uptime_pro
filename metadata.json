@@ -1,0 +1,8 @@
+{
+  "name": " website  Uptime Checker ",
+  "description": "Comprehensive website and server monitoring tool with instant URL \u0026 port diagnostics, live uptime charts, background watch alerts, SSL \u0026 DNS inspection, and public status pages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

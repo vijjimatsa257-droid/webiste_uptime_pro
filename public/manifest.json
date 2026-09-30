@@ -1,0 +1,26 @@
+{
+  "id": "/",
+  "name": "Uptime Checker Pro",
+  "short_name": "UptimePro",
+  "description": "Comprehensive website and server monitoring with instant diagnostics, alerts, and mobile notifications.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0a0a0a",
+  "theme_color": "#059669",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192' fill='%23059669'%3E%3Crect width='192' height='192' rx='40' fill='%230a0a0a'/%3E%3Cpath d='M96 28L42 52v44c0 33.6 23 65 54 72 31-7 54-38.4 54-72V52L96 28z' fill='%23059669'/%3E%3Cpath d='M84 104l-16-16-8.5 8.5L84 121l44-44-8.5-8.5z' fill='%23ffffff'/%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512' fill='%23059669'%3E%3Crect width='512' height='512' rx='100' fill='%230a0a0a'/%3E%3Cpath d='M256 74L112 138v117c0 89.6 61.3 173.3 144 192 82.7-18.7 144-102.4 144-192V138L256 74z' fill='%23059669'/%3E%3Cpath d='M224 277l-42-42-23 23 65 65 117-117-23-23z' fill='%23ffffff'/%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
